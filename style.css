@@ -2,8 +2,13 @@
     margin: 0;
 }
 
-.pattern {
+.header {
+    background-image: url(img/pattern.png);
+    padding-bottom: 150px;
     background-repeat: repeat-x;
+    background-size: contain;
+    height: 1px;
+    background-color: rgb(50, 204, 255);
 }
 
 .rif_persona {
@@ -20,4 +25,20 @@
 
 #customers th {
     text-align: left;
-    background-color: rgb(0, 153, 255);
+    background-color: rgb(63, 146, 255);
+}
+
+.footer {
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    font-size: 20px;
+    color: white;
+    padding-bottom: 200px;
+}
+
+.footer2 {
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 20%;
+    font-size: 20px;
+    color: white;
