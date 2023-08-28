@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+}
+
+.pattern {
+    background-repeat: repeat-x;
+}
+
+.rif_persona {
+    font-size: 14px;
+}
+
+.articolo {
+    margin: 20px 0px;
+}
+
+.tabella {
+    margin-bottom: 20px;
+}
+
+#customers th {
+    text-align: left;
+    background-color: rgb(0, 153, 255);
